@@ -1,3 +1,3 @@
 Welcome
 
-My first Git
+Software program :)
